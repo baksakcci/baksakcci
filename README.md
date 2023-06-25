@@ -1,3 +1,3 @@
 ### Backend Engineer
-CS, Java, SpringBoot, AWS
-천천히 차근차근
+Language: Java, JS
+Stack: Springboot, AWS, React
