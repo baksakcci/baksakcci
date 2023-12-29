@@ -1,4 +1,4 @@
-### Backend Engineer
+### baksakcci
 Language: Java, JS
 
-Stack: Springboot, AWS, React
+Stack: Springboot, Spring Data JPA, WebSocket, OOP, AWS, Docker
