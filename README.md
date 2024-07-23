@@ -11,6 +11,7 @@ Backend
 - JPA, Spring Data JPA, Query DSL
 - Junit5, Mockito
 - Gradle
+
 DevOps
 - MySQL
 - Docker
