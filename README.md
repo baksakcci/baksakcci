@@ -11,5 +11,4 @@
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=profile/pshsh910)](https://solved.ac/profile/pshsh910)
-https://solved.ac/profile/pshsh910
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pshsh910)](https://solved.ac/pshsh910)
